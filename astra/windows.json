@@ -1,11 +1,11 @@
 {
   "app": "Astra",
   "platform": "windows",
-  "version": "1.0.3",
-  "versionCode": 10,
-  "url": "https://github.com/arasworks/Updates/releases/download/astra-windows-v1.0.3/Astra.msi",
-  "sha256": "f663df544ee2c02ea9944de19bf19cf6d1a86dff52118acdf2586130bf71c2c1",
-  "size": 115380368,
-  "notes": "Merge remote-tracking branch 'origin/main' into android-cam",
-  "date": "2026-11-20T15:13:02Z"
+  "version": "1.0.4",
+  "versionCode": 13,
+  "url": "https://github.com/arasworks/Updates/releases/download/astra-windows-v1.0.4/Astra.msi",
+  "sha256": "d013f380f834349807f1dd6c967ace6b1e0203024a57bdbbabdeb819db6c1b61",
+  "size": 115441808,
+  "notes": "Cam: açık temada bölüm simgeleri koyulaştırıldı, açılır pencereler opak",
+  "date": "2026-11-20T15:53:38Z"
 }
