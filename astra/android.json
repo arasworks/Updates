@@ -1,11 +1,11 @@
 {
   "app": "Astra",
   "platform": "android",
-  "version": "1.0.2",
-  "versionCode": 9,
-  "url": "https://github.com/arasworks/Updates/releases/download/astra-android-v1.0.2/Astra.apk",
-  "sha256": "3fe0df87676c4f8b1ab24522a3de1cd8834dffe98f238302e63acb5bbdff2f30",
-  "size": 46324566,
-  "notes": "Cam: açık temada bölüm simgeleri koyulaştırıldı, açılır pencereler opak",
-  "date": "2026-11-20T15:54:52Z"
+  "version": "1.0.5",
+  "versionCode": 13,
+  "url": "https://github.com/arasworks/Updates/releases/download/astra-android-v1.0.5/Astra.apk",
+  "sha256": "c7c802dd0d7473c7d5dc5b1630358beb9ef47b72e5a5031cee781458a570835c",
+  "size": 46324570,
+  "notes": "Ekran görüntüsü çalışmasına düzenleyici biçim denetimi eklendi",
+  "date": "2026-11-20T18:56:02Z"
 }
