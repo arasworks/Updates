@@ -1,11 +1,11 @@
 {
   "app": "Astra",
   "platform": "windows",
-  "version": "1.0.4",
-  "versionCode": 13,
-  "url": "https://github.com/arasworks/Updates/releases/download/astra-windows-v1.0.4/Astra.msi",
-  "sha256": "d013f380f834349807f1dd6c967ace6b1e0203024a57bdbbabdeb819db6c1b61",
-  "size": 115441808,
-  "notes": "Cam: açık temada bölüm simgeleri koyulaştırıldı, açılır pencereler opak",
-  "date": "2026-11-20T15:53:38Z"
+  "version": "1.0.5",
+  "versionCode": 17,
+  "url": "https://github.com/arasworks/Updates/releases/download/astra-windows-v1.0.5/Astra.msi",
+  "sha256": "a61c34fae6ff91ffb722a70e3505596e6aa3302f26dfa2edf61c9d98be895bee",
+  "size": 115454096,
+  "notes": "Ekran görüntüsü çalışmasına düzenleyici biçim denetimi eklendi",
+  "date": "2026-11-20T18:52:32Z"
 }
