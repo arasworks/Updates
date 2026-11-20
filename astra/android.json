@@ -6,6 +6,6 @@
   "url": "https://github.com/arasworks/Updates/releases/download/astra-android-v1.0.5/Astra.apk",
   "sha256": "c7c802dd0d7473c7d5dc5b1630358beb9ef47b72e5a5031cee781458a570835c",
   "size": 46324570,
-  "notes": "Ekran görüntüsü çalışmasına düzenleyici biçim denetimi eklendi",
+  "notes": "Yazı biçimlendirme baştan yazıldı: kalın, italik, altı çizili ve vurgu artık Enter ve silmede bozulmuyor. Güncellemeler ekranı Windows'taki gibi: otomatik denetim, Wi-Fi'de arka planda indirme, üst şerit.",
   "date": "2026-11-20T18:56:02Z"
 }

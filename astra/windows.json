@@ -6,6 +6,6 @@
   "url": "https://github.com/arasworks/Updates/releases/download/astra-windows-v1.0.5/Astra.msi",
   "sha256": "a61c34fae6ff91ffb722a70e3505596e6aa3302f26dfa2edf61c9d98be895bee",
   "size": 115454096,
-  "notes": "Ekran görüntüsü çalışmasına düzenleyici biçim denetimi eklendi",
+  "notes": "Yazı biçimlendirme baştan yazıldı: kalın, italik, altı çizili ve vurgu artık Enter ve silmede bozulmuyor.",
   "date": "2026-11-20T18:52:32Z"
 }
