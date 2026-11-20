@@ -1,0 +1,11 @@
+{
+  "app": "Astra",
+  "platform": "android",
+  "version": "1.0.1",
+  "versionCode": 6,
+  "url": "https://github.com/arasworks/Updates/releases/download/astra-android-v1.0.1/Astra.apk",
+  "sha256": "a80fe3ffe201abb5068b6de461bd3916737181fa80aa0820948485334fb3905d",
+  "size": 46324566,
+  "notes": "Merge remote-tracking branch 'origin/main' into android-cam",
+  "date": "2026-11-20T15:10:57Z"
+}
