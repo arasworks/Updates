@@ -1,11 +1,11 @@
 {
   "app": "Astra",
   "platform": "android",
-  "version": "1.1.0",
-  "versionCode": 17,
-  "url": "https://github.com/arasworks/Updates/releases/download/astra-android-v1.1.0/Astra.apk",
-  "sha256": "02bbf9e7cc10045e8c25a8851e3b4e5055a9d7f40042cd9d85db7c8f69db4499",
-  "size": 46357334,
-  "notes": "Astra 1.1: yeni yazı araçları (üstü çizili, yazı rengi, alt başlıklar, numaralı liste, alıntı, kod, ayırıcı, girinti, tarih, tablo) ve Ayarlar → Araç çubuğu ile araçları seçip sıralama. Not defterleri artık Klasörler. Belge tarama, resimden yazı ve ses kaydı tek dokunuşla yeni not açar. Karalama defteri klavyenin arkasında kalmıyor.",
-  "date": "2026-11-20T20:33:48Z"
+  "version": "1.1.1",
+  "versionCode": 20,
+  "url": "https://github.com/arasworks/Updates/releases/download/astra-android-v1.1.1/Astra.apk",
+  "sha256": "d4d645c1999acd0b152136d1db8b98c1835f3cb75262f405a158be8a27b13eaf",
+  "size": 46464374,
+  "notes": "Astra 1.1.1: yeni uygulama simgesi. Ana ekranda, görev çubuğunda ve bildirimlerde yeni Astra logosu.",
+  "date": "2026-11-20T21:09:42Z"
 }
