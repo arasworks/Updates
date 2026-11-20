@@ -1,0 +1,11 @@
+{
+  "app": "Astra",
+  "platform": "windows",
+  "version": "1.0.2",
+  "versionCode": 0,
+  "url": "https://github.com/arasworks/Updates/releases/download/astra-windows-v1.0.2/Astra.msi",
+  "sha256": "db75bb6b9e12d8e2c0b55a332608a8db2d613fbe4616c7f7351aa3da6a43c092",
+  "size": 115380368,
+  "notes": "Astra Windows 1.0.2",
+  "date": "2026-11-20T15:07:11Z"
+}
