@@ -1,11 +1,11 @@
 {
   "app": "Astra",
   "platform": "windows",
-  "version": "1.1.1",
-  "versionCode": 24,
-  "url": "https://github.com/arasworks/Updates/releases/download/astra-windows-v1.1.1/Astra.msi",
-  "sha256": "916d18acc70baa11497ddb1fac683176c5e8974e51f4627516154f8ff9b14163",
-  "size": 115585168,
-  "notes": "Astra 1.1.1: yeni uygulama simgesi. Ana ekranda, görev çubuğunda ve bildirimlerde yeni Astra logosu.",
-  "date": "2026-11-20T21:05:52Z"
+  "version": "1.2.0",
+  "versionCode": 35,
+  "url": "https://github.com/arasworks/Updates/releases/download/astra-windows-v1.2.0/Astra.msi",
+  "sha256": "bab38b72192641a4a5abeb69ebbe88bcef6758db412ee92975b3ffc605d7e6bf",
+  "size": 116527248,
+  "notes": "Astra 1.2.0: Çizim defteri geldi. Kalemle ya da parmakla not al, PDF'lerin üzerine yaz, kalem, fosforlu kalem, silgi, kement, bant, lazer, şekil, yazı kutusu ve resim araçlarını kullan. Defterler otomatik kaydedilir, istediğinde PDF olarak dışa aktarılır. Android'de el yazısını yazıya çevirme ve tablet düzeni de bu sürümde.",
+  "date": "2026-11-21T00:19:52Z"
 }
