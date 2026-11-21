@@ -1,11 +1,11 @@
 {
   "app": "Astra",
   "platform": "android",
-  "version": "1.1.1",
-  "versionCode": 20,
-  "url": "https://github.com/arasworks/Updates/releases/download/astra-android-v1.1.1/Astra.apk",
-  "sha256": "d4d645c1999acd0b152136d1db8b98c1835f3cb75262f405a158be8a27b13eaf",
-  "size": 46464374,
-  "notes": "Astra 1.1.1: yeni uygulama simgesi. Ana ekranda, görev çubuğunda ve bildirimlerde yeni Astra logosu.",
-  "date": "2026-11-20T21:09:42Z"
+  "version": "1.2.0",
+  "versionCode": 31,
+  "url": "https://github.com/arasworks/Updates/releases/download/astra-android-v1.2.0/Astra.apk",
+  "sha256": "f81590dbbb5dbdaa8ea3fbce92275a5fe0161fb0fb45de6dca2ef30e1dcc189e",
+  "size": 83154826,
+  "notes": "Astra 1.2.0: Çizim defteri geldi. Kalemle ya da parmakla not al, PDF'lerin üzerine yaz, kalem, fosforlu kalem, silgi, kement, bant, lazer, şekil, yazı kutusu ve resim araçlarını kullan. Defterler otomatik kaydedilir, istediğinde PDF olarak dışa aktarılır. Android'de el yazısını yazıya çevirme ve tablet düzeni de bu sürümde.",
+  "date": "2026-11-21T00:22:49Z"
 }
